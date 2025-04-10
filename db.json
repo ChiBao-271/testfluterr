@@ -1,29 +1,29 @@
-
 {
-      "users" : [
-                    {
-                      "id": 1,
-                      "name": "Alice Johnson",
-                      "email": "alice.johnson@example.com",
-                      "phone": "123-456-7890",
-                      "avatar": "https://pfst.cf2.poecdn.net/base/image/90fcd6fcbcdc408891fb49fc4f1b4e8aae796272dd653b14d8becfa75e558768?w=1024&h=768&pmaid=343665007",
-                      "dateOfBirth": "1990-05-15T00:00:00.000Z"
-                    },
-                    {
-                      "id": 2,
-                      "name": "Bob Smith",
-                      "email": "bob.smith@example.com",
-                      "phone": "987-654-3210",
-                      "avatar": "https://example.com/images/bob.png",
-                      "dateOfBirth": "1985-12-01T00:00:00.000Z"
-                    },
-                    {
-                      "id": 3,
-                      "name": "Charlie Brown",
-                      "email": "charlie.brown@example.com",
-                      "phone": "555-123-4567",
-                      "avatar": "https://example.com/images/charlie.jpeg",
-                      "dateOfBirth": "2002-08-22T00:00:00.000Z"
-                    }
-                  ]
+      "users":[
+              {
+                "id": 1,
+                "name": "Alice Johnson",
+                "email": "alice.johnson@example.com",
+                "phone": "123-456-7890",
+                "avatar": "https://pfst.cf2.poecdn.net/base/image/90fcd6fcbcdc408891fb49fc4f1b4e8aae796272dd653b14d8becfa75e558768?w=1024&h=768&pmaid=343665007",
+                "dateOfBirth": "1990-05-15T00:00:00.000Z"
+              },
+              {
+                "id": 2,
+                "name": "Bob Smith",
+                "email": "bob.smith@example.com",
+                "phone": "987-654-3210",
+                "avatar": "https://example.com/images/bob.png",
+                "dateOfBirth": "1985-12-01T00:00:00.000Z"
+              },
+              {
+                "id": 3,
+                "name": "Charlie Brown",
+                "email": "charlie.brown@example.com",
+                "phone": "555-123-4567",
+                "avatar": "https://example.com/images/charlie.jpeg",
+                "dateOfBirth": "2002-08-22T00:00:00.000Z"
+              }
+]
 }
+                  
